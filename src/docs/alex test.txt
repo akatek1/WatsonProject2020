@@ -1,0 +1,204 @@
+[[BBS]]
+
+BBS may refer to:
+
+==Technologies==
+
+==Organisations==
+
+==Science==
+
+==Culture==
+
+==Other==
+
+
+[[Balfour declaration]]
+
+#REDIRECT Balfour Declaration [tpl]R from other capitalisation[/tpl]
+
+
+[[British Standards]]
+
+CATEGORIES: 1901 establishments in the United Kingdom, British Standards, International Electrotechnical Commission, Standards organizations, Certification marks, Organisations based in the United Kingdom
+
+British Standards are the standards produced by BSI Group which is incorporated under a Royal Charter (and which is formally designated as the National Standards Body (NSB) for the UK). The BSI Group produces British Standards under the authority of the Charter, which lays down as one of the BSI's objectives to:
+Formally, as per the 2002 Memorandum of Understanding between the BSI and the United Kingdom Government, British Standards are defined as:
+
+Products and services which BSI certifies as having met the requirements of specific standards within designated schemes are awarded the Kitemark.[tpl]cite web|url=http://www.kitemark.com/about-kitemark/ |title=Kitemark.com |publisher=Kitemark.com |date= |accessdate=2012-04-03[/tpl]
+
+==How British Standards are made==
+
+The BSI Group as a whole does not produce British Standards, as standards work within the BSI is decentralized.  The governing Board of BSI establishes a Standards Board.  The Standards Board does little apart from setting up Sector Boards (a Sector in BSI parlance being a field of standardization such as ICT, Quality, Agriculture, Manufacturing, or Fire).  Each Sector Board in turn constitutes several Technical Committees.  It is the Technical Committees that, formally, approve a British Standard, which is then presented to the Secretary of the supervisory Sector Board for endorsement of the fact that the Technical Committee has indeed completed a task for which it was constituted.
+
+==The standards==
+
+The standards produced are titled British Standard XXXX-P:YYYY where XXXX is the number of the standard, P is the number of the part of the standard (where the standard is split into multiple parts) and YYYY is the year in which the standard came into effect.  BSI Group currently has over 27,000 active standards. Products are commonly specified as meeting a particular British Standard, and in general this can be done without any certification or independent testing. The standard simply provides a shorthand way of claiming that certain specifications are met, while encouraging manufacturers to adhere to a common method for such a specification.
+The Kitemark can be used to indicate certification by BSI, but only where a Kitemark scheme has been set up around a particular standard. It is mainly applicable to safety and quality management standards. There is a common misunderstanding that Kitemarks are necessary to prove compliance with any BS standard, but in general it is neither desirable nor possible that every standard be 'policed' in this way.
+Following the move on harmonisation of the standard in Europe, some British Standards are gradually superseded or replaced by the relevant European Standards (EN).
+
+==Status of standards==
+
+Standards are continuously reviewed and developed and are periodically allocated one or more of the following status keywords.Guide to using the BSI shop (retrieved 26-Jan-2013)
+
+==History==
+
+BSI Group began in 1901 as the Engineering Standards Committee, led by James Mansergh, to standardise the number and type of steel sections, in order to make British manufacturers more efficient and competitive.
+Over time the standards developed to cover many aspects of tangible engineering, and then engineering methodologies including quality systems, safety and security.
+
+==Examples of British Standards==
+
+==PAS Documents==
+
+BSI also publishes a series of PAS documents. 
+PAS documents are a flexible and rapid standards development model that is open to all organizations. A PAS is a sponsored piece of work allowing organizations flexibility in the rapid creation of a standard while also allowing for a greater degree of control over the document's development. A typical development time frame for a PAS is around 6â€“9 months. Once published by BSI a PAS has all the functionality of a British Standard for the purposes of creating schemes such as management systems and product benchmarks as well as codes of practice. A PAS is a living document and after two years the document will be reviewed and a decision made with the client as to whether or not this should be taken forward to become a formal British standard.  The term PAS was originally an acronym derived from "product approval specification", a name which was subsequently changed to â€œpublicly available specificationâ€�.  However, according to BSI, not all PAS documents are structured as specifications and the term is now sufficiently well established not to require any further amplification.
+
+===Examples===
+
+==Availability==
+
+Copies of British Standards are sold at the BSI Online Shop[tpl]cite web|url=http://www.bsigroup.com/upload/Standards%20&%20Publications/shop.html?epslanguage=EN |title=BSI Online Shop |publisher=Bsigroup.com |date= |accessdate=2012-04-03[/tpl] or can be accessed via subscription to British Standards Online (BSOL).[tpl]cite web|url=http://www.bsigroup.com/en/Standards-and-Publications/Online-subscription-products/BSOL/ |title=British Standards Online |publisher=Bsigroup.com |date= |accessdate=2012-04-03[/tpl] They can also be ordered via the publishing units of many other national standards bodies (ANSI, DIN, etc.) and from several specialized suppliers of technical specifications.
+Many British Standards (BSs) â€“ as well as some of the European and International Standards that were adopted as British Standards (BS EN, BS ISO) â€“ are also available in public and university libraries in the United Kingdom. However, BSI makes standards available to these libraries only under licence restrictions which forbid loan, inter-library loan, open-shelf access, and copying of more than 10% of a document by library users.[tpl]cite web|url=http://www.bl.uk/eresources/science/databstb.html#letterb |title=British Library access to British Standards |publisher=Bl.uk |date= |accessdate=2012-04-03[/tpl] The BSI Knowledge Centre[tpl]cite web|url=http://www.bsigroup.com/en/Standards-and-Publications/BSI-Knowledge-Centre/ |title=BSI Knowledge Centre - BSI library - BSI Shop |publisher=[tpl]URL|www.bsigroup.com[/tpl] |date= |accessdate=2012-10-12[/tpl] in Chiswick charges visiting members of the public a fee of Â£20 per hour. This service is free to BSI members, students and accredited journalists.[tpl]cite web|url=http://www.bsigroup.com/en/Standards-and-Publications/BSI-Knowledge-Centre/ |title=BSI Knowledge Centre (includes library) |publisher=Bsigroup.com |date= |accessdate=2012-04-03[/tpl]
+
+==See also==
+
+==References==
+
+[ref][tpl]cite conference|booktitle=International Symposium on Plastics Testing and Standardization|volume=247|series=ASTM special technical publication|publisher=American Society for Testing Materials International|year=1959|title=Standardization in the United Kingdom|author=H.M. Glass G. Weston|pages=37â€“38[/tpl][tpl]cite book|chapter=Standards, Specifications, and codes of practice|author=J.M. Faller and M.H. Graham|title=Handbook of Electrical Installation Practice|editor=Geoffrey Stokes|edition=4th|publisher=Wiley-Blackwell|year=2003|isbn=0-632-06002-6|isbn=978-0-632-06002-3|pages=305â€“306[/tpl][tpl]cite book|title=The constitution of private governance: product standards in the regulation of integrating markets|volume=4|series=International studies in the theory of private law|author=Harm Schepel|publisher=Hart Publishing|year=2005|isbn=1-84113-487-2|isbn=978-1-84113-487-1|pages=121â€“124[/tpl][tpl]Cite journal|title=MEMORANDUM OF UNDERSTANDING BETWEEN THE UNITED KINGDOM GOVERNMENT AND THE BRITISH STANDARDS INSTITUTION IN RESPECT OF ITS ACTIVITIES AS THE UNITED KINGDOM'S NATIONAL STANDARDS BODY|publisher=United Kingdom Department for Business, Innovation, and Skills|year=2002|format=PDF|url=http://bis.gov.uk/files/file11950.pdf[/tpl]
+
+==External links==
+
+
+[[Building society]]
+
+CATEGORIES: Building societies, Cooperatives, Financial services, Financial institutions, Mutual organizations, Social economy
+
+A building society is a financial institution owned by its members as a mutual organisation. Building societies offer banking and related financial services, especially mortgage lending. These institutions are found in the United Kingdom (UK) and several other countries.
+The term "building society" first arose in the 18th century in Great Britain from cooperative savings groups. In the UK today, building societies actively compete with banks for most consumer banking services, especially mortgage lending and savings accounts.
+Every building society in the UK is a member of the Building Societies Association. At the start of 2008, there were 59 building societies in the UK, with total assets exceeding Â£360 billion.[tpl]cite web|url=http://www.bsa.org.uk |title=Building Societies Association |publisher=Bsa.org.uk |date= |accessdate=6 June 2012[/tpl] The number of societies in the UK fell by four during 2008 due to a series of mergers brought about, to a large extent, by the consequences of the financial crisis of 2007-2010. With three further mergers in each of 2009 and 2010, and a demutualisation and a merger in 2011, the current number of building societies is at 45.
+
+==History==
+
+The origins of the building society as an institution lie in late-18th century Birmingham â€“ a town which was undergoing rapid economic and physical expansion driven by a multiplicity of small metalworking firms, whose many highly skilled and prosperous owners readily invested in property.[tpl]Cite book|last=Ashworth|first=Herbert|title=The Building Society Story|year=1980|publisher=Franey & Co.|location=London|isbn=0-900382-38-4|page=4[/tpl]; [tpl]Cite book|last=Berg|first=Maxine|editor=Berg, Maxine|title=Markets and Manufacture in Early Industrial Europe|url=http://books.google.co.uk/books?id=NfkNAAAAQAAJ|accessdate=7 September 2010|year=1991|publisher=Routledge|location=London|isbn=0-415-03720-4|page=194|chapter=Commerce and Creativity in Eighteenth-Century Birmingham|chapterurl=http://books.google.co.uk/books?id=NfkNAAAAQAAJ&pg=PA173[/tpl] Many of the early building societies were based in taverns or coffeehouses, which had become the focus for a network of clubs and societies for co-operation and the exchange of ideas among Birmingham's highly active citizenry as part of the movement known as the Midlands Enlightenment.[tpl]Cite book|last=Jones|first=Peter M.|title=Industrial Enlightenment: Science, technology and culture in Birmingham and the West Midlands, 1760â€“1820|year=2009|publisher=Manchester University Press|location=Manchester|isbn=0-7190-7770-2|page=65[/tpl]; [tpl]Cite news|first=Carl|last=Chinn|title=Brum's building society origins|url=http://www.thefreelibrary.com/Brum's+building+society+origins-a0188546654857|work=Strabane Mail|publisher=Birmingham Post and Mail Ltd.|date=15 November 2008|accessdate=6 September 1905[/tpl] The first building society to be established was Ketley's Building Society, founded by Richard Ketley, the landlord of the Golden Cross inn, in 1775.[tpl]cite web|url=http://www.bsa.org.uk/consumer/factsheets/100009.htm|title=The History of Building Societies|accessdate=6 September 2010|last=Rex|first=Simon|date=20 April 2010|publisher=Building Societies Association[/tpl]; [tpl]Cite book|last=Ashworth|first=Herbert|title=The Building Society Story|year=1980|publisher=Franey & Co.|location=London|isbn=0-900382-38-4|page=2[/tpl] Members of Ketley's society paid a monthly subscription to a central pool of funds which was used to finance the building of houses for members, which in turn acted as collateral to attract further funding to the society, enabling further construction.[tpl]Cite journal|last=Peterson|first=Christopher L.|date=October 1991|publisher=|title=Truth, Understanding, and High-Cost Consumer Credit: The Historical Context of the Truth in Lending Act|journal=Florida Law Review|issue=55|pages=839â€“840|url=|accessdate=6 September 2010[/tpl] By 1781 three more societies had been established in Birmingham, with a fourth in the nearby town of Dudley; and 19 more formed in Birmingham between 1782 and 1795.[tpl]Citation|last=Clark|first=Peter|year=2002|title=British Clubs and Societies 1580â€“1800: The Origins of an Associational World|publication-place=Oxford|publisher=Oxford University Press|page=129|isbn=0-19-924843-5|url=http://books.google.co.uk/books?id=h18rP1hrNLQC&pg=PA129|accessdate=20 November 2010[/tpl] The first outside the English Midlands was established in Leeds in 1785.[tpl]Cite book|last=Cleary|first=E. J.|title=The Building Society Movement|url=http://books.google.co.uk/books?id=pajPAAAAMAAJ|accessdate=7 September 2010|year=1965|publisher=Elek Books|location=London|oclc=11817434|pages=11â€“12[/tpl]
+Most of the original societies were fully terminating, where they would be dissolved when all members had a house: the last of them, First Salisbury, was wound up in March 1980.[tpl]cite web|last=Rex|first=Simon|title=The History of Building Societies|url=http://www.bsa.org.uk/consumer/factsheets/100009.htm|publisher=Building Societies Association|accessdate=8 June 2010[/tpl] In the 1830s and 1840s a new development took place with the Permanent Building Society, where the society continued on a rolling basis, continually taking in new members as earlier ones completed purchases, such as Leek United Building Society. The main legislative framework for the Building Society was the Building Society Act of 1874, with subsequent amending legislation in 1894, 1939 (see Coney Hall), and 1960.
+In their heyday, there were hundreds of building societies: just about every town in the country had a building society named after that town. Over succeeding decades the number of societies has decreased, as various societies merged to form larger ones, often renaming in the process, and other societies opted for demutualisation followed by â€“ in the great majority of cases â€“ eventual takeover by a listed bank. Most of the existing larger building societies are the end result of the mergers of many smaller societies.
+
+===1980s and 1990s===
+
+In the 1980s, British banking laws were changed to allow building societies to offer banking services equivalent to normal banks. The management of a number of societies still felt that they were unable to compete with the banks, and a new Building Societies Act was passed in 1986 in response to their concerns. This permitted societies to 'demutualise'. If more than 75% of members voted in favour, the building society would then become a limited company like any other. Members' mutual rights were exchanged for shares in this new company. A number of the larger societies made such proposals to their members and all were accepted. Some became independent companies quoted on the London Stock Exchange, others were acquired by larger financial groups.
+The process began with the demutualisation of the Abbey National building society in 1989. Then, from 1995 to late-1999, eight societies demutualised accounting for two-thirds of building societies assets as at 1994. Five of these societies became joint stock banks (Plc), one merged with another and the other four were taken over by Plc's (in two cases after the mutual had previously converted to a Plc).
+As Tayler (2003) refers, demutualisation moves succeeded immediately because neither Conservative nor Labour party UK Governments created a framework which put obstacles in the way of demutualisation. Political acquiescence in demutualisation was clearest in the case of the position on 'carpet baggers', that is those who joined societies by lodging minimum amounts of Â£100 or so in the hope of profiting from a distribution of surplus after demutualisation. The deregulating 1986 Building Societies Act contained an anti-carpet bagger provision in the form of a two-year rule. This prescribed a qualifying period of two years before savers could participate in a residual claim. But, before the 1989 Abbey National Building Society demutualisation, the Courts found against the two-year rule after legal action brought by Abbey National itself to circumvent the intent of the legislators. After this the legislation did prevent a cash distribution to members of less than two years standing, but the same result was obtained by permitting the issue of 'free' shares in the acquiring Plc, saleable for cash. The Thatcher Conservative government declined to introduce amending legislation to make good the defect in the 'two-year rule'.
+Building societies, like mutual life insurers, arose as people clubbed together to address a common need interest; in the case of the building societies, this was housing and members were originally both savers and borrowers. But it very quickly became clear that 'outsider' savers were needed whose motive was profit through interest on deposits. Thus permanent building societies quickly became mortgage banks and in such institutions there always existed a conflict of interest between borrowers and savers. It was the task of the movement to reconcile that conflict of interest so as to enable savers to conclude that their interests and those of borrowers were to some extent complementary rather than conflictive. Conflict of interest between savers and borrowers was never fully reconciled in the building societies but upon deregulation that reconciliation became something of a lost cause. The management of building societies apparently could expend considerable time and resources (which belonged the organisation) planning their effective captureâ€”of as much of the assets as they could. If so, this is arguably insider dealing on a grand scale with the benefit of inside specialist knowledge of the business and resources of the firm not shared with outsiders like politicians and members (and, perhaps, regulators). Once the opportunity to claim was presented by management the savers in particular could be relied upon to seize it. There were sufficient hard up borrowers to take the inducement offered them by management (in spite of few simple sums sufficing to demonstrate that they were probably going to end up effectively paying back the inducement). (Tayler 2003)
+Managements promoting demutualisation also thereby met managerial objectives because the end of mutuality brought joint stock company (Plc) style remuneration committee pay standards and share options. Share options for management of converting societies appear to be a powerful factor in management calculation. Rasmusen (1988) refers to this in the following terms:
+" ... perks do not rise in proportion to mutual bank size. If a mutual is large, or is expected to grow if it can raise capital by a conversion, its managers derive more value from a conversion but do not suffer much loss of perks than if the bank were small. Their benefit is in the right to purchase the new stock, which are valuable because the new issues are consistently underpriced to USA mutual bank conversions. Moreover, by no means are all mutual managers incompetent, and conversions allows the bank to expand more easily and to grant executive stock options that are valuable to skilled managers".
+Instead of deploying their margin advantage as a defence of mutuality, around 1980 building societies began setting mortgage rates with reference to market clearing levels. In sum they began behaving more like banks, seeking to maximise profit instead of the advantages of a mutual organisation. Thus, according to the Bank of England's Boxall and Gallagher (1997), "... there was virtually no difference between banks and building society 'listed' interest rates for home finance mortgage lending between 1984 and 1997. This behaviour resulted in a return on assets for building societies which was at least as high as Plc banks and, in the absence of distribution, led to rapid accumulation of reserves". As Boxall and Gallagher (1997) also observe; "... accumulation of reserves in the early-1990's, beyond regulatory and future growth requirements, is difficult to reconcile with conventional theories of mutual behaviour".
+Llewellyn (1996) draws a rather more direct and cynical conclusion;
+"By adopting a policy of building up reserves by maintaining an excess margin, building societies simultaneously allowed banks to compete and may have undermined the long run viability of mutuality. A more cynical approach is that some societies may have adopted an excess-margin strategy simply to enhance their value for conversion".
+Some of these managements ended up in dispute with their own members. Of the first major conversion of the Abbey in 1989, Kay (1991) observed;
+" ... the paradox of the Abbey members who campaigned against flotation to a Plc bank of their building society. They were fighting to preserve a degree of accountability to the membership which the management of the Society patently did not feel. For incumbent management, the contrary views of some of their members were not matters to be weighed in the balance and taken account of in formulation of policy. They were a nuisance to be dealt with by the costly use of public relations advisers and legal processes".
+In the end, after a number of large demutualisations, and pressure from carpetbaggers moving from one building society to another to cream off the windfalls, most of the remaining societies modified their rules of membership in the late 1990s. The method usually adopted were membership rules to ensure that anyone newly joining a society would, for the first few years, be unable to get any profit out of a demutualisation. With the chance of a quick profit removed, the wave of demutualisations came to an end in 2000.
+One academic study (Heffernan, 2003) found that demutualised societies' pricing behaviour on deposits and mortgages was more favourable to shareholders than to customers, with the remaining mutual building societies offering consistently better rates.[tpl]cite web| title = The Effect of UK Building Society Conversion on Pricing Behaviour (March 2003) | author = Shelagh Heffernan | publisher = Faculty of Finance, CASS Business School, City of London | url = http://www.cass.city.ac.uk/facfin/papers/WP2003/Mutuals-WP.pdf  | format = PDF  | accessdate = 10 October 2007 [/tpl]
+
+===2000s and 2010s===
+
+The Butterfill Act was passed in 2007 giving building societies greater powers to merge with other companies. These powers have been used by the Britannia in 2009 and Kent Reliance in 2011 leading to their demutualisation.
+Prior to 31 December 2010, deposits with building societies of up to Â£50,000 per individual, per institution, were normally protected by the Financial Services Compensation Scheme (FSCS), but Nationwide and Yorkshire Building Societies negotiated a temporary change to the terms of the FSCS to protect members of the societies they acquired in late 2008/early 2009. The amended terms allowed former members of multiple societies which merge into one to maintain multiple entitlements to FSCS protection until 30 September 2009 (later extended to 30 December 2010), so (for example) a member with Â£50,000 in each of Nationwide, Cheshire and Derbyshire at the time of the respective mergers would retain Â£150,000 of FSCS protection for their funds in the merged Nationwide.http://www.moneymadeclear.fsa.gov.uk/news/product/bs_merger_compensation.html On 31 December 2010 the general FSCS limit for retail deposits was increased to Â£85,000 for banks and building societies and the transitional arrangements in respect of building society mergers came to an end.
+
+==List of building societies==
+
+===United Kingdom===
+
+====Current====
+
+The remaining building societies are:
+(Total group assets of building societies) Source: Building Societies Association updated for subsequent mergers and the administration of Dunfermline Building Society
+
+====Demutualised====
+
+Ten building societies of the United Kingdom demutualised between 1989 and 2000, either becoming a bank or being acquired by a larger bank.Building Society Takeovers and Flotations Building Societies Association website . Retrieved 5 April 2007. By 2008, every building society that floated on the stock market in the wave of demutualisations of the 1980s and 1990s had either been sold to a conventional bank, or been nationalised.
+
+====No longer exist====
+
+The following is an incomplete list of building societies in the United Kingdom that no longer exist independently, since they either merged with or were taken over by other building societies or mutuals.Building Society Mergers and Conversions since 1980 Building Societies Association website . Retrieved 5 April 2007. However, they may still have an active presence on the high street (or online) as a trading name or as a distinct brand. This is typically because brands will often build up specific reputations and attract certain clientele, and this can continue to be marketed successfully. 
+
+===Australia===
+
+In Australia, building societies evolved along British lines. Because of strict regulations on banks, building societies flourished until the deregulation of the Australian financial industry in the 1980s. Eventually many of the smaller building societies disappeared, while some of the largest (such as St. George) officially attained the status of banks.
+A particular difference between Australian building societies and those elsewhere, is that Australian building societies are required to incorporate as limited companies.
+Current building societies are
+
+===Ireland===
+
+The Republic of Ireland had around 40 building societies at the mid-20th century peak.[tpl]cite web|url=http://www.ibf.ie/Libraries/Guides_Forms/bsnames_1.sflb.ashx |title=List of Building Society Changes |publisher=Irish Banking Federation |date= |accessdate=25 April 2013[/tpl] Many of these were very small and, as the Irish commercial banks began to originate residential mortgages, the small building societies ceased to be competitive. Most merged or dissolved or, in the case of First Active plc, converted into conventional banks. The last remaining building societies, EBS Building Society and Irish Nationwide Building Society, demutualised and were transferred or acquired into Bank subsidiaries in 2011 following the effects of the 2008â€“2011 Irish financial crisis.
+Leeds Building Society Ireland and Nationwide UK (Ireland) are Irish branches of building societies based in the United Kingdom.
+
+====Society closures====
+
+===Jamaica===
+
+In Jamaica, four building societies compete with commercial banks and credit unions for most consumer financial services.
+
+===New Zealand===
+
+In New Zealand, a number of building societies were established. Some, including Countrywide Building Society and United Building Society, became banks in the 1980s and 1990s. Remaining building societies include:
+Registration as a building society in the past where largely a formality.  Nowadays the Registrar of Building Societies seeks that every Building Society has minimum subscribed members with full paid-up capital no less the NZD 200,000 also makes sure all its members fully registered with all companies that are members must not be dormant.  All member companies must have their annual returns lodged, the  registrarâ€™s assessment of any new or old new entity will be based on its compliance with the registrars rules,  The financial soundness of every Building Society must have independent Audited accounts so that the public my assess the risk of dealing with such an institution, as if a part of the registration compliance under the building societies act of 1965.
+
+===Zimbabwe===
+
+In Zimbabwe, Central Africa Building Society (CABS) is the leading building society offering a diverse range of financial products and services that include transaction and savings accounts, mobile banking, mortgage loans, money market investments, term deposits and pay-roll loans.
+
+==Similar organisations in other countries==
+
+In other countries there are mutual organisations similar to building societies:
+
+==Operational differences from banks==
+
+Because most building societies were not direct members of the UK clearing system, it was common for them to use a roll number to identify accounts rather than to allocate a six-digit sort-code and eight-digit account number to the BACS standards.
+More recently, building societies have tended to obtain sort-code and account number allocations within the clearing system, and hence the use of roll numbers has diminished. When using BACS, one needs to enter roll numbers for the reference field and the building society's generic sort code and account number would be entered in the standard BACS fields.[tpl]cite web |url=http://www.experianpayments.com/glossary/roll-number.html |title=Roll Number |publisher= Experianpayments.com [/tpl]
+
+==See also==
+
+==References==
+
+==Further reading==
+
+==External links==
+
+|url=http://news.bbc.co.uk/1/hi/business/7641925.stm
+|title=Not such a good idea after all?
+|work=news.bbc.co.uk
+|publisher=BBC News
+|author=Pollock, Ian
+|date=29 September 2008}}
+
+[[Blue Steel (missile)]]
+
+CATEGORIES: Cold War air-to-surface missiles of the United Kingdom, Nuclear air-to-surface missiles, Nuclear weapons of the United Kingdom
+
+The Avro Blue Steel was a British air-launched, rocket-propelled nuclear stand-off missile, built to arm the V bomber force. It was the primary British nuclear deterrent weapon until the Royal Navy started operating Polaris missile armed nuclear submarines.
+
+==Development==
+
+Blue Steel was the result of a Ministry of Supply memorandum from 5 November 1954 that predicted that by 1960 Soviet air defences would make it prohibitively dangerous for V bombers to attack with nuclear gravity bombs. The answer was for a rocket-powered, supersonic missile capable of carrying a large nuclear (or projected thermonuclear) warhead with a range of at least [tpl]convert|50|mi|km|abbr=on[/tpl]. This would keep the bombers out of range of Soviet ground-based defences installed around the target area, allowing the warhead to "dash" in at high speed.
+There would have to be a balance between the size of the warhead, the need for it to be carried by any of the three V-bomber types in use, and that it should be able to reach Mach 3. At the time the only strategic warheads available in the UK were the Orange Herald and Green Bamboo, both of which were very large weapons demanding a large missile fuselage. The Air Staff issued this requirement for a stand-off bomb as OR.1132 in September 1954.Gibson, Buttler T British Secret Projects: Hypersonics, Ramjets and Missiles Midland Publishing 2007
+The Ministry of Supply selected Avro out of the British manufacturers though it had no previous experience in working on guided weapons other than some private venture work; Handley Page had suggested a [tpl]convert|500|nmi|km|abbr=on[/tpl] missile but the Elliots gyro based guidance system was inaccurate beyond [tpl]convert|100|nmi|km|abbr=on[/tpl].
+Avro began work proper in 1955, with the assigned Rainbow Code name of "Blue Steel" which it would keep in service. With Elliots working on the guidance system Armstrong Siddeley would develop the liquid fuel engine.
+Its design period was protracted, with various development problems exacerbated by the fact that designers lacked information on the actual size and weight of the proposed boosted-fission warhead Green Bamboo, or its likely thermonuclear successor derived from the Granite series. The large girth of Blue Steel was determined by the [tpl]convert|45|in|m[/tpl] implosion sphere diameter of Green Bamboo.
+Avro proposed that Blue Steel would evolve over time, subsequent versions increasing speed (to Mach 4.5) and range. The ultimate Blue Steel would be a [tpl]convert|900|nmi|km|abbr=on[/tpl] range weapon that could be launched by the supersonic Avro 730 under development. They were told to limit themselves to the specification of OR.1132. The project was delayed by the need to develop the stainless steel fabrication techniques; this would have been gained in building the Avro 730 but that had been cancelled by then. Elliots guidance system was plagued by accuracy problems delaying test flights.
+As it turned out, neither of the originally-proposed UK-designed warheads were actually fitted, being superseded by Red Snow, an Anglicised variant of the U.S. W-28 thermonuclear warhead of 1.1 Mt yield. Red Snow was smaller and lighter than the earlier warhead proposals. The missile was fitted with a state-of-the-art inertial navigation unit. This system allowed the missile to strike within 100 metres of its designated target. In addition, the pilots of the Avro Vulcan or Handley Page Victor bombers could tie their systems into those of the missile and make use of the guidance system to help plot their own flight plan, since the unit in the missile was more advanced than that in the aircraft.
+Blue Steel emerged as a pilotless, winged aircraft roughly the size of the experimental Saunders-Roe SR.53 interceptor, with clipped delta wings and small canard foreplanes. It was powered by a two-chamber Armstrong Siddeley Stentor Mark 101 rocket engine, burning a combination of hydrogen peroxide and kerosene. The fuel was a considerable operational problem, because fuelling the missile before launch took nearly half an hour, and was quite hazardous.
+On launch the rocket engine's first chamber developing [tpl]convert|24000|lbf|kN|abbr=on[/tpl] thrust would power the missile along a predetermined course to the target at around Mach 1.5. Once close to the target, the second chamber of the engine (6,000Â lb) would accelerate the missile to Mach 3. Over the target the engine would cut out and the missile would free-fall before detonating its warhead as an air burst.
+To speed the trials at Woomera, the test rounds were flown there by Victors and Vulcans in Operation Blue Ranger. The trials began in 1960 about the time the original requirement expected the weapon to be in service.
+Blue Steel finally entered service in February 1963, being carried by Vulcans and Victors, although its limitations were already apparent. The short range of the missile meant that the V bombers were still vulnerable to enemy surface-to-air missiles. A replacement for Blue Steel, the Mark 2, was planned with increased range and a ramjet engine, but was cancelled in 1960 to minimise delays to the Mk.1. The UK sought to acquire the much longer-ranged United States Air Force AGM-48 Skybolt air-launched ballistic missile, and was greatly frustrated when that weapon was cancelled in late 1962.
+Blue Steel required up to seven hours of launch preparation, and was highly unreliable; the Royal Air Force estimated in 1963 that half the missiles would fail to fire and would have to be dropped over their targets, contradicting their purpose of serving as standoff weapons. Even as it deployed Blue Steel, a high-altitude weapon, that year the government decided that because of anti-aircraft missiles' increasing effectiveness, V bombers would have to convert from high-altitude to low-altitude attacks.[tpl]cite book | title=Ambiguity and Deterrence: British Nuclear Strategy 1945-1964 | publisher=Clarendon Press | author=Baylis, John | year=1995 | location=Oxford | isbn=0-19-828012-2[/tpl][tpl]rp|349â€“351[/tpl] With no effective long-range weapon the original Blue Steel served on after a crash programme of minor modifications to permit a low-level launch at [tpl]convert|1000|ft|m|abbr=on[/tpl], even though its usefulness in a hot war was likely limited. A stop-gap weapon (WE.177B) was quickly produced to extend the life of the V-bomber force in the strategic role until the Polaris missile was deployed. This WE.177 laydown weapon supplemented the remaining modified Blue Steel missiles using a low-level penetration followed by a pop-up manoeuvre to release the weapon at [tpl]convert|1000|ft|m|abbr=on[/tpl] Forty-eight live operational rounds were deployed on 48 Vulcan and Victor bombers plus a further five live rounds as operational spares. An additional four non-nuclear rounds were produced for various RAF requirements, and there were 16 other unspecified training rounds.
+Blue Steel was officially retired on 31 December 1970, with the United Kingdom's strategic nuclear capacity passing to the submarine fleet.
+
+==Operator==
+
+==Specifications==
+
+==See also==
+
+==References==
+
+==External links==
